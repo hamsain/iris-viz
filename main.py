@@ -13,7 +13,7 @@ st.set_page_config(
 		layout = 'wide',
 	)
 
-st.title('Iris Data Analysis - Streamlit developed by Alvin from DTSense')
+st.title('Iris Data Analysis - DTSense')
 
 with st.sidebar:
 	st.markdown('**Pilih Species**')
